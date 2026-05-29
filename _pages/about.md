@@ -18,6 +18,7 @@ Education
 - **B.S.  in Electrical Engineering, IRIB university, 2026**
 
 
+
 Certifications & Training
 ------
 - Comprehensive course in data science and artificial intelligence, University of Tehran
