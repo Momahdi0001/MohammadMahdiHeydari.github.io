@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Mohammad Mahdi Heydari"
   pronouns         :  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data scientist interested in machine learning, data analysis, and data-driven decision making"
   location         : "Iran-Tehran"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "momahdi0001@gmail.com" 
 
