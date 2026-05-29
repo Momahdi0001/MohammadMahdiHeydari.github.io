@@ -10,7 +10,8 @@
 main:
   - title: "Selected Projects"
     url: /cv/
-    
+  - title: "Certificates"
+    url: /certificates/
 #  - title: "Certificates"
  #   url: /publications/
 
