@@ -11,8 +11,8 @@ main:
   - title: "Selected Projects"
     url: /cv/
     
-  - title: "Certificates"
-    url: /publications/
+#  - title: "Certificates"
+ #   url: /publications/
 
  # - title: "Talks"
  #   url: /talks/    
