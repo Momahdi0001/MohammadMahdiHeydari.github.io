@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohammad Mahdi Heydari | Data Scientist"
+title: "Mohammad Mahdi Heydari : Data Scientist"
 author_profile: true
 redirect_from: 
   - /about/
