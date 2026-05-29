@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mohammad Mahdi Heydari | Data Scientist"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,14 +21,14 @@ Education
 
 Certifications & Training
 ------
-- Comprehensive course in data science and artificial intelligence, University of Tehran
+- Comprehensive course in data science and artificial intelligence, University of Tehran,2026 (expected)
 - Data Analyst courses , Hamrah Academy
 
 Technical Skills & Tools
 ------
 - **Data Science Methodology:** Data-driven decision-making, CRISP-DM lifecycle.
-- **Programming & Analysis:** Python (Pandas, NumPy), R, SQL Server.
-- **Data Tools:** IBM SPSS Modeler, KNIME, Excel (Advanced).
+- **Programming & Analysis:** Python, R, SQL Server.
+- **Data Tools:** IBM SPSS Modeler, KNIME, Excel .
 - **Visualization:** Power BI, Tableau.
 
 
