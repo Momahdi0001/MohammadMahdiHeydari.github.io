@@ -23,7 +23,7 @@ For each item, you can view the certificate snapshot and (when available) verify
 
   <br>
 
-  **Credential link:** [Add verification link](https://hamrah.academy/certificate/Q0AB7W4R5ED7?lang=EN&status=PDF)
+  **Credential link:** [https://hamrah.academy/certificate/Q0AB7W4R5ED7?lang=EN&status=PDF]
 
   <br>
 
@@ -38,7 +38,7 @@ For each item, you can view the certificate snapshot and (when available) verify
 
   <br>
 
-  **Credential link:** [Add verification link](https://hamrah.academy/certificate/DU6RO34YULEQ?lang=EN&status=PDF)
+  **Credential link:** [https://hamrah.academy/certificate/DU6RO34YULEQ?lang=EN&status=PDF]
 
   <br>
 
